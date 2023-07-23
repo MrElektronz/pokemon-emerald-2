@@ -1,0 +1,5 @@
+pokemon emerald additional region pokemon:
+	WOOLOO,
+	MANKEY,
+	TEDDIURSA,
+	
